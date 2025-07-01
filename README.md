@@ -1,5 +1,5 @@
 
-# Wonderland Of Madness
+# Wonderland Of Madness (광기의 원더랜드)
 '이상한 나라의 앨리스'를 주제로 뱀서류 게임을 개발한 팀 프로젝트이다.
 
 ---
