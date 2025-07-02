@@ -42,8 +42,8 @@ public class EnemyManager : MonoBehaviour
         if(eventTimer >= eventTime)
         {
             float ran = Random.Range(25.0f, 35.0f); //랜덤한 이벤트 시간
-            eventTime = ran;
-            eventTimer = 0.0f;
+            eventTime = ran; //이벤트 시간 랜덤
+            eventTimer = 0.0f; //이벤트 타이머 초기화
             chessEvent.SetPattern(); //이벤트 패턴 함수 호출
         }
 
