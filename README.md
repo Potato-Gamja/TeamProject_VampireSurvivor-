@@ -22,7 +22,7 @@ E-mail: seunguk.gamja@gmail.com
    
 2. 개발기간: 2025.03.04~2025.06.16 (약 3개월)
    
-3. 사용 툴: Unity, Aseprite, Photoshop
+3. 개발도구: Unity, Aseprite, Photoshop
    
 4. 설명: '이상한 나라의 앨리스'를 주제로 한 뱀파이어 서바이벌이다. 도트 그래픽을 사용함으로써 이상한 나라의 기괴하고 동화적인 분위기를 표현하였습니다.
    
